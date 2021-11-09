@@ -1,0 +1,32 @@
+[
+  {
+    "id": "xEyuC",
+    "title": "prueba1",
+    "price": 500,
+    "thumbnail": "http://google.com"
+  },
+  {
+    "id": "YVBun",
+    "title": "prueba2",
+    "price": 600,
+    "thumbnail": "http://google.com"
+  },
+  {
+    "id": "JG5qu",
+    "title": "prueba3",
+    "price": 400,
+    "thumbnail": "http://google.com"
+  },
+  {
+    "id": "7sJGT",
+    "title": "prueba4",
+    "price": 800,
+    "thumbnail": "http://google.com"
+  },
+  {
+    "id": "4klsE",
+    "title": "prueba5",
+    "price": 1000,
+    "thumbnail": "http://google.com"
+  }
+]
